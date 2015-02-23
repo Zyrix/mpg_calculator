@@ -1,5 +1,5 @@
-# mpg_calculator
-Calculate the miles per gallon of your car
+# MPG Calculator
+Calculate the miles per gallon of your car.
 
 Application on shiny server:  
 https://zyrix.shinyapps.io/mpg_calculator/
